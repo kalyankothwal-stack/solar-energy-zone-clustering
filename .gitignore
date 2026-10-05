@@ -1,0 +1,12 @@
+# Dataset 
+Statewide Solar Projects.csv
+
+# Data dictionary
+dictionary.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
