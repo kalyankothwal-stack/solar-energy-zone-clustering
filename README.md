@@ -2,7 +2,7 @@
 
 Unsupervised machine learning project that clusters solar project locations across New York State into High, Medium, and Low energy production zones, to help identify priority areas for sales and marketing.
 
-🗺️ **[View Interactive Map](your-github-pages-link-here)**
+🗺️ **[View Interactive Map](https://kalyankothwal-stack.github.io/SOLAR-ENERGY-ZONE-CLUSTERING/)**
 
 ## Overview
 
